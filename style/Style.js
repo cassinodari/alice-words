@@ -17,17 +17,7 @@ export default StyleSheet.create({
         backgroundColor: 'blue',
         borderColor: 'white',
         borderWidth: 1,
-        borderRadius: 12,import React from 'react'
-        import { Image } from 'react-native'
-        export default class Logo extends React.Component {
-         render(){
-         return (
-         <Image
-         source={require('../assets/logo.png')}
-         />
-         )
-         }
-        }
+        borderRadius: 12,
         color: 'white',
         fontSize: 40,
         fontWeight: 'bold',
